@@ -1,4 +1,4 @@
-# Custom Watercooling
+# Custom Watercooling Guide
 
 ## Introduction
 
