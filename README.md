@@ -6,8 +6,13 @@ Custom watercooling is mainly used for high end components in order to cool them
 
 # Parts
 
-## Waterblock
-The waterblock is the part of the loop which cools the CPU or GPU. It is mounted onto it like a regular CPU cooler, but has two tubes going into it, screwed on by fittings.
+## CPU Blocks
+The CPU block is the part of the loop which cools the CPU, like the name suggests. It is mounted onto it like a regular CPU cooler, but has two tubes going into it, screwed on by fittings.
+
+
+## GPU blocks 
+Very similar to CPU blocks, but the GPU block usually goes onto the entire card to cool the VRAM and VRMs, and often has a backplate. Although, there are GPU blocks that only mount onto the chip.
+
 
 ## Radiators
 As the component which is being cooled heats up, so does the water that it is being cooled by. The water flows through the radiator and is cooled by the fans.
@@ -15,10 +20,10 @@ As the component which is being cooled heats up, so does the water that it is be
 ## Fans
 Fans cool the radiator, since they get hot. Static pressure optimised fans help with performance on radiators.
 
-## Pump
+## Pumps
 As the name suggests, it pumps the water around the loop, in order to cool all of the liquid down.
 
-## Reservoir
+## Reservoirs
 Reservoirs aren't actually manditory, like in some SFF builds, but most pumps require to be used with a reservoir. They are used to fill up the loop and contain more liquid.
 
 ## Tubes
