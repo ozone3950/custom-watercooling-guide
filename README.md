@@ -47,8 +47,9 @@ As the name suggests, it pumps the water around the loop, in order to cool all o
 ## Reservoirs
 Reservoirs aren't actually manditory, like in some SFF builds, but most pumps require to be used with a reservoir. They are used to fill up the loop and contain more liquid.
 
+##### Barrow
+##### EK-XRES
 ##### Heatkiller Tube
-##### Barrow Combo
 
 
 ## Tubes
