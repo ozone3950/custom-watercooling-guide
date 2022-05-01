@@ -9,14 +9,21 @@ Custom watercooling is mainly used for high end components in order to cool them
 ## CPU Blocks
 The CPU block is the part of the loop which cools the CPU, like the name suggests. It is mounted onto it like a regular CPU cooler, but has two tubes going into it, screwed on by fittings.
 
-Heatkiller IV PRO
-Optimus Signature V2
+##### Heatkiller IV PRO 
+- Finish Variations: Acetal Clean, Acrylic, Acrylic Clean, Black Copper, Copper Nickel, Pure Copper
+- Mounting Compatibility (Seperate Models): Intel LGA1X00 (115X, 1200, 1700 w/ backplate), Intel LGA12XX, AMD
+
+##### Optimus Signature V2
+- Finish Variations: Matte Black, Matte White, Satin Nickel
+- Mounting Compatibility: Intel 115X, 1200, 1700 w/ backplate, 20XX
 
 
 ## GPU blocks 
 Very similar to CPU blocks, but the GPU block usually goes onto the entire card to cool the VRAM and VRMs, and often has a backplate. Although, there are GPU blocks that only mount onto the chip.
 
 ##### Alphacool Eisblock
+
+
 ##### Heatkiller IV
 ##### Heatkiller V
 
@@ -24,10 +31,32 @@ Very similar to CPU blocks, but the GPU block usually goes onto the entire card 
 ## Radiators
 As the component which is being cooled heats up, so does the water that it is being cooled by. The water flows through the radiator and is cooled by the fans.
 
-##### Black Ice Nemesis GTS Series
-##### Black Ice Nemesis GTX Series
-##### Corsair Hydro X XR5 Series
-##### Corsair Hydro X XR7 Series
+**Regular:**
+##### Black Ice Nemesis GTS
+- **Sizes:** 120/140/240/360/420/480/560mm
+- **Thickness:** 29mm
+- **Material:** Copper
+
+##### Black Ice Nemesis GTX 
+- **Sizes:** 120/140/240/360/420/480/560mm
+- **Thickness:** 54mm
+- **Material:** Copper
+
+##### Corsair Hydro X XR5
+- **Sizes:** 120/140/240/360/420mm
+- **Thickness:** 30mm
+- **Material:** Copper
+
+##### Corsair Hydro X XR7
+- **Sizes:** 240/360/480mm
+- **Thickness:** 54mm
+- **Material:** Copper
+
+**External:**
+##### Bykski TK-V2
+- **Size:** 1080mm
+- **Thickness:** 46mm
+- **Material:** Copper
 
 
 ## Fans
@@ -40,7 +69,6 @@ Since there are a lot of fans, check my [Fan Buying Guide](https://github.com/oz
 As the name suggests, it pumps the water around the loop, in order to cool all of the liquid down.
 
 ##### D5
-##### MCP665
 ##### VPP755
 
 
